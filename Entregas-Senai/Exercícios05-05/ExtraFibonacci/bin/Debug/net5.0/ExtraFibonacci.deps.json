@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ExtraFibonacci/1.0.0": {
+        "runtime": {
+          "ExtraFibonacci.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExtraFibonacci/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

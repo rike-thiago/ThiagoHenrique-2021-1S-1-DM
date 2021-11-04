@@ -1,0 +1,16 @@
+C:\Users\thiag\Desktop\SENAI\POO\POOpolimorfismo\ExemploSobrescrita\bin\Debug\net5.0\ExemploSobrescrita.exe
+C:\Users\thiag\Desktop\SENAI\POO\POOpolimorfismo\ExemploSobrescrita\bin\Debug\net5.0\ExemploSobrescrita.deps.json
+C:\Users\thiag\Desktop\SENAI\POO\POOpolimorfismo\ExemploSobrescrita\bin\Debug\net5.0\ExemploSobrescrita.runtimeconfig.json
+C:\Users\thiag\Desktop\SENAI\POO\POOpolimorfismo\ExemploSobrescrita\bin\Debug\net5.0\ExemploSobrescrita.runtimeconfig.dev.json
+C:\Users\thiag\Desktop\SENAI\POO\POOpolimorfismo\ExemploSobrescrita\bin\Debug\net5.0\ExemploSobrescrita.dll
+C:\Users\thiag\Desktop\SENAI\POO\POOpolimorfismo\ExemploSobrescrita\bin\Debug\net5.0\ref\ExemploSobrescrita.dll
+C:\Users\thiag\Desktop\SENAI\POO\POOpolimorfismo\ExemploSobrescrita\bin\Debug\net5.0\ExemploSobrescrita.pdb
+C:\Users\thiag\Desktop\SENAI\POO\POOpolimorfismo\ExemploSobrescrita\obj\Debug\net5.0\ExemploSobrescrita.csprojAssemblyReference.cache
+C:\Users\thiag\Desktop\SENAI\POO\POOpolimorfismo\ExemploSobrescrita\obj\Debug\net5.0\ExemploSobrescrita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\SENAI\POO\POOpolimorfismo\ExemploSobrescrita\obj\Debug\net5.0\ExemploSobrescrita.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\SENAI\POO\POOpolimorfismo\ExemploSobrescrita\obj\Debug\net5.0\ExemploSobrescrita.AssemblyInfo.cs
+C:\Users\thiag\Desktop\SENAI\POO\POOpolimorfismo\ExemploSobrescrita\obj\Debug\net5.0\ExemploSobrescrita.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\SENAI\POO\POOpolimorfismo\ExemploSobrescrita\obj\Debug\net5.0\ExemploSobrescrita.dll
+C:\Users\thiag\Desktop\SENAI\POO\POOpolimorfismo\ExemploSobrescrita\obj\Debug\net5.0\ref\ExemploSobrescrita.dll
+C:\Users\thiag\Desktop\SENAI\POO\POOpolimorfismo\ExemploSobrescrita\obj\Debug\net5.0\ExemploSobrescrita.pdb
+C:\Users\thiag\Desktop\SENAI\POO\POOpolimorfismo\ExemploSobrescrita\obj\Debug\net5.0\ExemploSobrescrita.genruntimeconfig.cache

@@ -1,0 +1,32 @@
+C:\Users\dev\Desktop\Thiago Henrique\bin\Debug\net5.0\Thiago Henrique.exe
+C:\Users\dev\Desktop\Thiago Henrique\bin\Debug\net5.0\Thiago Henrique.deps.json
+C:\Users\dev\Desktop\Thiago Henrique\bin\Debug\net5.0\Thiago Henrique.runtimeconfig.json
+C:\Users\dev\Desktop\Thiago Henrique\bin\Debug\net5.0\Thiago Henrique.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Thiago Henrique\bin\Debug\net5.0\Thiago Henrique.dll
+C:\Users\dev\Desktop\Thiago Henrique\bin\Debug\net5.0\ref\Thiago Henrique.dll
+C:\Users\dev\Desktop\Thiago Henrique\bin\Debug\net5.0\Thiago Henrique.pdb
+C:\Users\dev\Desktop\Thiago Henrique\obj\Debug\net5.0\Thiago Henrique.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Thiago Henrique\obj\Debug\net5.0\Thiago Henrique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\Thiago Henrique\obj\Debug\net5.0\Thiago Henrique.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Thiago Henrique\obj\Debug\net5.0\Thiago Henrique.AssemblyInfo.cs
+C:\Users\dev\Desktop\Thiago Henrique\obj\Debug\net5.0\Thiago Henrique.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Thiago Henrique\obj\Debug\net5.0\Thiago Henrique.dll
+C:\Users\dev\Desktop\Thiago Henrique\obj\Debug\net5.0\ref\Thiago Henrique.dll
+C:\Users\dev\Desktop\Thiago Henrique\obj\Debug\net5.0\Thiago Henrique.pdb
+C:\Users\dev\Desktop\Thiago Henrique\obj\Debug\net5.0\Thiago Henrique.genruntimeconfig.cache
+C:\Users\thiag\Desktop\Thiago\SENAI\Inicio-CSharp\bin\Debug\net5.0\Thiago Henrique.exe
+C:\Users\thiag\Desktop\Thiago\SENAI\Inicio-CSharp\bin\Debug\net5.0\Thiago Henrique.deps.json
+C:\Users\thiag\Desktop\Thiago\SENAI\Inicio-CSharp\bin\Debug\net5.0\Thiago Henrique.runtimeconfig.json
+C:\Users\thiag\Desktop\Thiago\SENAI\Inicio-CSharp\bin\Debug\net5.0\Thiago Henrique.runtimeconfig.dev.json
+C:\Users\thiag\Desktop\Thiago\SENAI\Inicio-CSharp\bin\Debug\net5.0\Thiago Henrique.dll
+C:\Users\thiag\Desktop\Thiago\SENAI\Inicio-CSharp\bin\Debug\net5.0\ref\Thiago Henrique.dll
+C:\Users\thiag\Desktop\Thiago\SENAI\Inicio-CSharp\bin\Debug\net5.0\Thiago Henrique.pdb
+C:\Users\thiag\Desktop\Thiago\SENAI\Inicio-CSharp\obj\Debug\net5.0\Thiago Henrique.csprojAssemblyReference.cache
+C:\Users\thiag\Desktop\Thiago\SENAI\Inicio-CSharp\obj\Debug\net5.0\Thiago Henrique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\Thiago\SENAI\Inicio-CSharp\obj\Debug\net5.0\Thiago Henrique.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\Thiago\SENAI\Inicio-CSharp\obj\Debug\net5.0\Thiago Henrique.AssemblyInfo.cs
+C:\Users\thiag\Desktop\Thiago\SENAI\Inicio-CSharp\obj\Debug\net5.0\Thiago Henrique.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Thiago\SENAI\Inicio-CSharp\obj\Debug\net5.0\Thiago Henrique.dll
+C:\Users\thiag\Desktop\Thiago\SENAI\Inicio-CSharp\obj\Debug\net5.0\ref\Thiago Henrique.dll
+C:\Users\thiag\Desktop\Thiago\SENAI\Inicio-CSharp\obj\Debug\net5.0\Thiago Henrique.pdb
+C:\Users\thiag\Desktop\Thiago\SENAI\Inicio-CSharp\obj\Debug\net5.0\Thiago Henrique.genruntimeconfig.cache

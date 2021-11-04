@@ -1,0 +1,16 @@
+C:\Users\dev\Desktop\Thiago Henrique\Entregas\Exercícios05-05\ExtraFibonacci\bin\Debug\net5.0\ExtraFibonacci.exe
+C:\Users\dev\Desktop\Thiago Henrique\Entregas\Exercícios05-05\ExtraFibonacci\bin\Debug\net5.0\ExtraFibonacci.deps.json
+C:\Users\dev\Desktop\Thiago Henrique\Entregas\Exercícios05-05\ExtraFibonacci\bin\Debug\net5.0\ExtraFibonacci.runtimeconfig.json
+C:\Users\dev\Desktop\Thiago Henrique\Entregas\Exercícios05-05\ExtraFibonacci\bin\Debug\net5.0\ExtraFibonacci.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Thiago Henrique\Entregas\Exercícios05-05\ExtraFibonacci\bin\Debug\net5.0\ExtraFibonacci.dll
+C:\Users\dev\Desktop\Thiago Henrique\Entregas\Exercícios05-05\ExtraFibonacci\bin\Debug\net5.0\ref\ExtraFibonacci.dll
+C:\Users\dev\Desktop\Thiago Henrique\Entregas\Exercícios05-05\ExtraFibonacci\bin\Debug\net5.0\ExtraFibonacci.pdb
+C:\Users\dev\Desktop\Thiago Henrique\Entregas\Exercícios05-05\ExtraFibonacci\obj\Debug\net5.0\ExtraFibonacci.csproj.AssemblyReference.cache
+C:\Users\dev\Desktop\Thiago Henrique\Entregas\Exercícios05-05\ExtraFibonacci\obj\Debug\net5.0\ExtraFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\Thiago Henrique\Entregas\Exercícios05-05\ExtraFibonacci\obj\Debug\net5.0\ExtraFibonacci.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Thiago Henrique\Entregas\Exercícios05-05\ExtraFibonacci\obj\Debug\net5.0\ExtraFibonacci.AssemblyInfo.cs
+C:\Users\dev\Desktop\Thiago Henrique\Entregas\Exercícios05-05\ExtraFibonacci\obj\Debug\net5.0\ExtraFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Thiago Henrique\Entregas\Exercícios05-05\ExtraFibonacci\obj\Debug\net5.0\ExtraFibonacci.dll
+C:\Users\dev\Desktop\Thiago Henrique\Entregas\Exercícios05-05\ExtraFibonacci\obj\Debug\net5.0\ref\ExtraFibonacci.dll
+C:\Users\dev\Desktop\Thiago Henrique\Entregas\Exercícios05-05\ExtraFibonacci\obj\Debug\net5.0\ExtraFibonacci.pdb
+C:\Users\dev\Desktop\Thiago Henrique\Entregas\Exercícios05-05\ExtraFibonacci\obj\Debug\net5.0\ExtraFibonacci.genruntimeconfig.cache
